@@ -1,0 +1,10 @@
+.statsContainer {
+  margin-top: 20px;
+  padding: 10px;
+  background: #dff0d8;
+  border-radius: 5px;
+}
+
+.statItem {
+  margin-bottom: 5px;
+}

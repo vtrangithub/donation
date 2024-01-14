@@ -1,0 +1,18 @@
+.listContainer {
+  margin-top: 20px;
+}
+
+.donationItem {
+  background: #eee;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.editButton,
+.deleteButton {
+  margin-left: 5px;
+}
